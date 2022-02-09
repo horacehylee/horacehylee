@@ -1469,7 +1469,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>webview/webview</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Tiny cross-platform webview library for C/C++/Golang. Uses WebKit (Gtk/Cocoa) and Edge (Windows)</div>
@@ -1522,7 +1522,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>wailsapp/wails</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Create desktop apps using Go and Web Technologies.</div>
@@ -1575,7 +1575,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>hashicorp/go-plugin</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Golang plugin system over RPC.</div>
@@ -1678,7 +1678,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 9 Feb 2022, 12:27:10 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.20.0</span>
+                <span>Last updated 9 Feb 2022, 13:18:46 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.20.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
