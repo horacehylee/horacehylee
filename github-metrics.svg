@@ -1463,7 +1463,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>caarlos0/httperr</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">func(w http.ResponseWriter, r *http.Request) error</div>
@@ -1569,7 +1569,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>chzyer/readline</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Readline is a pure go(golang) implementation for GNU-Readline kind library</div>
@@ -1672,7 +1672,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 23 Feb 2022, 21:24:49 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.20.0</span>
+                <span>Last updated 23 Feb 2022, 22:19:49 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.20.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
